@@ -25,6 +25,7 @@ After this a sound is played and the everything resets back to the original
 Left Button: Used to interact with the game 
 Triggers a response within the game
 Pressed or not pressed
+
 Right Button: Used to change the location of the target LED
 
 ## Outputs:
